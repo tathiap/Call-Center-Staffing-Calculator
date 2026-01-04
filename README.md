@@ -68,20 +68,19 @@ Analysis of Megaline Call Data:
 ## Business Applications
 
 ### Capacity Planning
-**Question:** *If call volume increases 20%, how many agents do we need?*
+* **Question:** *If call volume increases 20%, how many agents do we need?*
 
-**Answer:** Use staffing curve to calculate exact headcount. For Megaline peak (392 calls/hour): Current 73 FTE → +20% volume requires 86 FTE (+13 agents)
+* **Answer:** Use staffing curve to calculate exact headcount. For Megaline peak (392 calls/hour): Current 73 FTE → +20% volume requires 86 FTE (+13 agents)
 
 ### Service Level Trade-offs
-**Question:** *What's the cost of improving from 80/20 to 90/30 SLA?*
+* **Question:** *What's the cost of improving from 80/20 to 90/30 SLA?*
 
-**Answer:** 80/20 = 73 FTE | 90/30 = 77 FTE | +4 FTE = 5.5% labor cost increase
+* **Answer:** 80/20 = 73 FTE | 90/30 = 77 FTE | +4 FTE = 5.5% labor cost increase
 
 ### Shift Optimization
-**Question:** *Should we staff the same all day?*
+* **Question:** *Should we staff the same all day?*
 
-**Answer:** Peak hours require 73 FTE, off-peak requires significantly less. Flexible scheduling reduces costs vs. flat staffing.
-
+* **Answer:** Peak hours require 73 FTE, off-peak requires significantly less. Flexible scheduling reduces costs vs. flat staffing.
 
 
 ## Technologies
