@@ -1,2 +1,0 @@
-Average Handle Time (AHT): 6.75 minutes
-Calculated from 137,735 call records
