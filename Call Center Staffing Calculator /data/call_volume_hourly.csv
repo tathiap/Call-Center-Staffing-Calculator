@@ -1,0 +1,2 @@
+hour,calls,avg_duration_minutes,calls_weekday,avg_duration_weekday,calls_weekend,avg_duration_weekend,calls_per_hour_avg,calls_per_hour_weekday,calls_per_hour_weekend
+0,137735,6.75,97725,6.75,40010,6.73,392.41,389.34,400.1
