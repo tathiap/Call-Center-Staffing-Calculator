@@ -162,9 +162,8 @@ Analysis uses call pattern data from Megaline Telecom:
 
 ## About
 **Project Type:** Workforce Management Analytics Portfolio 
-**Purpose:** Demonstrate understanding of call center capacity planning and operational mathematics Domain: Contact Center Operations, Workforce Management
 
+**Purpose:** Demonstrate understanding of call center capacity planning and operational mathematics 
 
-
-* Hourly Schedule: Optimal agent allocation across 24-hour period
+**Domain:** Contact Center Operations, Workforce Management
 
